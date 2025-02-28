@@ -4,7 +4,7 @@ language: en
 # avatar
 avatar: img/assets/cat.png
 # author
-author: longlongyu
+author: zzy
 # signature
 signature: for me
 # friends
@@ -14,7 +14,7 @@ friends:
   friendC: //github.com/
 # SNS
 social:
-  email: 
+  email:
   github: //github.com/
   weibo: //www.weibo.com
   facebook: //www.facebook.com
@@ -23,24 +23,24 @@ social:
 
 # —————————— Site —————————— #
 # title of the site
-SEO_title: Mr.Long's Blog
+SEO_title: zzy's Blog
 # main title
-main_title: Mr.Long's Blog
+main_title: zzy's Blog
 # subtitle
 subtitle: Welcome to my Blog!
 # site haeder image
-site_header_image: '/img/intro/index-bg.png'
+site_header_image: "/img/intro/index-bg.png"
 # post haeder image
 post_header_image:
 # about image
-about_header_image: 
+about_header_image:
 
 # —————————— Indivdual —————————— #
 # Miscelaneous
 favicon: /img/assets/favicon.ico
 # —————————— Option —————————— #
 # truncate length of abstracts in index page (the default is 300, there will be no abstruct if you input 0)
-truncate_length: 
+truncate_length:
 # intro height (the default is 70 percents of the screen)
 intro_height: 70
 # enable toc
@@ -53,7 +53,7 @@ count:
   # true or flase
   busuanzi: true
   # baidu code
-  baidu: 
+  baidu:
 # Time
 # you can modify the timestamp format.
 date_format: YYYY-MM-DD
@@ -71,10 +71,10 @@ comment:
   # Livere  site: https://livere.com/
   livere_uid:
   # Disqus  site: https://disqus.com/
-  disqus_shortname: 
+  disqus_shortname:
   # Changyan  site: http://changyan.kuaizhan.com/
-  changyan_appid: 
-  changyan_conf: 
+  changyan_appid:
+  changyan_conf:
   # Gitment  site: https://github.com/imsun/gitment/
   gitment_owner:
   gitment_repo:
@@ -90,8 +90,8 @@ menu:
   Tags: /tags/
 # stylesheets loaded in the <head>
 stylesheets:
-- /css/style.css?v=2018.7.9
-- /css/animation.css?v=2018.7.9
+  - /css/style.css?v=2018.7.9
+  - /css/animation.css?v=2018.7.9
 # scripts loaded in the end of the body
 scripts:
-- /js/main.js?v=2018.7.9
+  - /js/main.js?v=2018.7.9
